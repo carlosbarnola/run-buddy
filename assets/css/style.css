@@ -215,3 +215,16 @@ section {
     color: white;
     
 }
+.contac-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+.contac-info p, .contac-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+.contac-info a {
+    color: #fce138;
+}
