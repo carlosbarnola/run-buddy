@@ -19,7 +19,10 @@ header h1 {
     color: #fce138;
     margin: 0;
     display: inline;
+    
+    
 }
+
 header a {
     color: #fce138;
     text-decoration: none;
@@ -67,7 +70,18 @@ section {
     background-position: center;
     position: relative;
 }
+.hero h2 {
+    color: #fce138;
+    font-size: 52px;
+    font-style: italic;
+    text-align: right;
+    display: inline-block;
 
+}
+.hero p {
+    color: #ffff;
+    display: inline-block;
+}
 .hero-form {
     color: #024e76;
     background-color: #fce138;
